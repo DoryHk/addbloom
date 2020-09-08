@@ -4102,7 +4102,7 @@ __webpack_require__.r(__webpack_exports__);
       this.buttonTitle = 'Update';
       this.title = 'Update Project';
       this.form = this.findProjectsById(id);
-      this.file = this.form.logo.length ? "/storage/images/".concat(this.form.logo) : '';
+      this.file = this.form.logo.length ? "/images/".concat(this.form.logo) : '';
     },
     findProjectsById: function findProjectsById(id) {
       return lodash__WEBPACK_IMPORTED_MODULE_0___default.a.find(this.data, {
@@ -100798,7 +100798,7 @@ var render = function() {
                   element.logo.length
                     ? _c("img", {
                         staticClass: "image-style",
-                        attrs: { src: "/storage/images/" + element.logo }
+                        attrs: { src: "/images/" + element.logo }
                       })
                     : _c("span", [_vm._v("No logo available")]),
                   _vm._v(" "),
@@ -100807,7 +100807,7 @@ var render = function() {
                         "a",
                         {
                           attrs: {
-                            href: "/storage/images/" + element.logo,
+                            href: "/images/" + element.logo,
                             download: ""
                           }
                         },

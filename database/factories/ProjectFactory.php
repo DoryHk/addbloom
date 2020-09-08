@@ -10,7 +10,7 @@ $factory->define(Project::class, function (Faker $faker) {
         'developer_name' => $faker->firstName,
         'app_name' => $faker->word,
         'version' => $faker->numberBetween(0,100),
-        'logo' =>$faker->image('public/storage/images',120,60, null, false),
+        'logo' =>$faker->image('public/images',120,60, null, false),
         'about' => $faker->text,
     ];
 });

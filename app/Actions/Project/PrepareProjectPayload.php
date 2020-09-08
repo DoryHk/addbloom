@@ -32,7 +32,7 @@ class PrepareProjectPayload
                         substr($imageData, 0, strpos($imageData, ';'))
                     )[1]
                 )[1];
-            Image::make($data['logo'])->save(public_path('/storage/images/') . $fileName);
+            Image::make($data['logo'])->save(public_path('/images/') . $fileName);
         }
         $app_name = $data['app_name'];
         $developer_name = $data['developer_name'];

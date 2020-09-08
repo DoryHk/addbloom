@@ -38,11 +38,11 @@
                         <img
                             v-if="element.logo.length"
                             class="image-style"
-                            :src="`/storage/images/${element.logo}`">
+                            :src="`/images/${element.logo}`">
                         <span v-else>No logo available</span>
                         <a
                             v-if="element.logo.length"
-                            :href="`/storage/images/${element.logo}`"
+                            :href="`/images/${element.logo}`"
                             download>
                             <el-icon
                                 class="el-icon-download float-right">
@@ -339,7 +339,7 @@ export default {
             this.title = 'Update Project';
             this.form = this.findProjectsById(id);
             this.file = this.form.logo.length ?
-                `/storage/images/${this.form.logo}`
+                `/images/${this.form.logo}`
                 : '';
         },
         findProjectsById(id) {
