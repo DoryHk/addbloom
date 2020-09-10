@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd20de53-f9f4-42da-bb03-e3bd25680467" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Actions/Project/PrepareProjectPayload.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Actions/Project/PrepareProjectPayload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/ProjectFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/ProjectFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/projects/allProjects.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/projects/allProjects.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -149,6 +149,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -177,6 +178,8 @@
       <updated>1599299712602</updated>
       <workItem from="1599299713677" duration="20044000" />
       <workItem from="1599341150849" duration="47386000" />
+      <workItem from="1599760073894" duration="2150000" />
+      <workItem from="1599768375577" duration="817000" />
     </task>
     <servers />
   </component>
@@ -184,6 +187,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="373" y="209" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599766417287">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="373" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1599766417287" />
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599593344344">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -220,14 +227,14 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="458" y="141" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1280.800@0.0.1280.800" timestamp="1599595045335" />
-    <state x="341" y="155" width="598" height="490" key="find.popup" timestamp="1599584290825">
+    <state x="341" y="155" width="598" height="490" key="find.popup" timestamp="1599768445692">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="341" y="155" width="598" height="490" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1599584290825" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1599515767973">
+    <state x="341" y="155" width="598" height="490" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1599768445692" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1599768198005">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1599515767973" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.731@0.23.1280.731" timestamp="1599319994177" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1599768198005" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.731@0.23.1280.731" timestamp="1599766932152" />
   </component>
 </project>
